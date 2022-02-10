@@ -1,0 +1,92 @@
+
+a{
+width: 50px; height: 25px; 
+border: 1px solid #2e518b;                  /*anchura, estilo y color borde*/
+padding: 100px;                                  /*espacio alrededor texto*/
+background-color: #2e518b;               /*color botón*/
+color: #ffffff;                                        /*color texto*/
+text-decoration: none;                         /*decoración texto*/
+text-transform: uppercase;                  /*capitalización texto*/
+font-family: 'Helvetica', sans-serif;      /*tipografía texto*/
+border-radius: 10px;                           /*bordes redondos*/
+}
+
+a.boton { 
+background-color: #000000; 
+color: #FFFFFF; 
+padding: 10px; 
+border-radius: 10px; 
+-moz-border-radius: 10px; 
+-webkit-border-radius: 10px; 
+margin:10px } 
+
+.small-btn { 
+width: 50px; height: 25px; 
+} 
+
+.medium-btn { 
+width: 70px; height: 30px; 
+} 
+
+.big-btn { 
+width: 90px; height: 40px; 
+} 
+
+/* Rectangle 1 */
+position: absolute;
+width: 545px;
+height: 803px;
+
+background: rgba(33, 3, 3, 0.65);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Rectangle 2 */
+position: absolute;
+width: 409px;
+height: 83px;
+
+background: #C4C4C4;
+
+/* Star 1 */
+position: absolute;
+width: 121px;
+height: 117px;
+
+background: #C4C4C4;
+
+/* Star 2 */
+position: absolute;
+width: 121px;
+height: 117px;
+
+background: #C4C4C4;
+
+/* Star 3 */
+position: absolute;
+width: 121px;
+height: 117px;
+
+background: #C4C4C4;
+
+/* Rectangle 3 */
+position: absolute;
+width: 409px;
+height: 83px;
+
+background: #C4C4C4;
+
+/* Usuario */
+position: absolute;
+width: 201px;
+height: 50px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+
+*/
